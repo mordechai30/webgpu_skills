@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "rust-wgpu-functional": {
+      "source": "leodutra/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/rust-wgpu-functional/SKILL.md",
+      "computedHash": "56ec33fc0568d479a185cd4b54da419285231d5ebd93629c389e66f55639877b"
+    },
+    "webgpu": {
+      "source": "cazala/webgpu-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "42bea1ccdfcb219ab652e6c1cd61deb02dfd2131d686121ab766ac1f6a77db66"
+    },
+    "webgpu-claude-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/webgpu-claude-skill/SKILL.md",
+      "computedHash": "423fa187cf2a25f42073010e2eae45af7daca6a5cb8bc28bc24bfe2ebb853d71"
+    },
+    "webgpu-specs": {
+      "source": "gfx-rs/wgpu",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/webgpu-specs/SKILL.md",
+      "computedHash": "c434a1db203f985dee58c2ad24a66ba9b93a1969946c5aa24ef716a727358d21"
+    },
+    "webgpu-syntax-render-pipeline": {
+      "source": "impertio-studio/webgpu-claude-skill-package",
+      "sourceType": "github",
+      "skillPath": "skills/source/webgpu-syntax/webgpu-syntax-render-pipeline/SKILL.md",
+      "computedHash": "f4b1e56f96178c6b2aae134e65498e4c4ab2320863c89064ff999ab1cf746fa8"
+    }
+  }
+}

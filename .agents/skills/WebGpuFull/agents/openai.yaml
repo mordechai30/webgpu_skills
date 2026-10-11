@@ -1,0 +1,4 @@
+interface:
+  display_name: "WebGpuFull"
+  short_description: "Rust wgpu contracts and measured GPU performance"
+  default_prompt: "Use $WebGpuFull to review the GPU design and its performance tradeoffs."
